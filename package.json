@@ -1,19 +1,18 @@
 {
-  "name": "m.asif-todo-list",
-  "version": "1.0.3",
+  "name": "m19h-todo-list",
+  "version": "1.0.1",
   "description": "To do list app",
   "main": "main.js",
   "type": "module",
-  "bin": {
-    "m.asif-todo-list": "main.js"
-  },
+  "bin": "main.js",
   "publishConfig": {
     "access": "public"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "asif",
+  "keywords": [],
+  "author": "Asif",
   "license": "MIT",
   "dependencies": {
     "inquirer": "^9.2.17"
